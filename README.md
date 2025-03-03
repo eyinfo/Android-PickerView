@@ -102,9 +102,9 @@ implementation 'io.github.eyinfo:pickerview:1.0.1'
 
 ```
 <dependency>
-<groupId>com.contrarywind</groupId>
-<artifactId>Android-PickerView</artifactId>
-<version>4.1.9</version>
+<groupId>io.github.eyinfo</groupId>
+<artifactId>pickerview</artifactId>
+<version>1.0.1</version>
 <type>pom</type>
 </dependency>
 ```
