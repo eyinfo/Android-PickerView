@@ -163,7 +163,6 @@ pvOptions = new OptionsPickerBuilder(this, new OnOptionsSelectListener() {
                 .setTitleBgColor(0xFF666666)//night mode
                 .setBgColor(0xFF444444)//night mode
                 .setContentTextSize(18)
-                .setLinkage(false)
                 .isCenterLabel(false) //default is true , if you choose false , the label text will add to all item ContentText right
                 .setLabels("province", "city", "district")
                 .setCyclic(false, false, false)
