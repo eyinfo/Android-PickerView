@@ -39,7 +39,8 @@ and support for the linkage, dialog . It's very easy to use ,  you also can cust
 ### Gradle
 
 ```java
-compile 'com.contrarywind:Android-PickerView:4.1.9'
+// 原地址无法下载：implementation 'com.contrarywind:Android-PickerView:4.1.9'
+implementation 'io.github.eyinfo:pickerview:1.0.1'
 ```
 
 ### Maven
