@@ -37,7 +37,7 @@ dependencies {
 mavenPublishing {
     def PROJECT_URL = "https://github.com/eyinfo/Android-PickerView"
     def GIT_RELATIVE_URL = "eyinfo/Android-PickerView"
-    def VERSION = "1.0.0"
+    def VERSION = "1.0.1"
     def GROUP_ID = "io.github.eyinfo"
     def ARTIFACT_ID = "pickerview"
     def DESCRIPTION = "Android PickerView"
